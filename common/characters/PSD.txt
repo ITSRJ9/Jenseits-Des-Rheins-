@@ -1,0 +1,16 @@
+character = {
+PSD_Umberto_II = {
+		name = PSD_Umberto_II
+		portraits = {
+			civilian = {
+				large = GFX_portrait_PSD_Umberto_II
+			}
+		}
+country_leader = {
+			ideology = despotism
+			traits = {}
+			expire = "1948.1.1.1"
+		}
+
+	}	
+}
