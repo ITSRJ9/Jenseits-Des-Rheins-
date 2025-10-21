@@ -1,0 +1,7 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_portrait_PSD_Umberto_II"
+		texturefile = "gfx/leaders/PSD/portrait_PSD_Umberto_II.dds"
+	}
+
+}
