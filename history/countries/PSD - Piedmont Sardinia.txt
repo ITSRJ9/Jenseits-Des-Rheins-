@@ -1,6 +1,7 @@
 ﻿capital = 158
+oob = "PSD_1935"
 
-
+set_convoys = 60
 set_research_slots = 3
 set_stability = 0.5
 set_war_support = 0.5
@@ -94,8 +95,6 @@ if = {
 }
 
 
-set_convoys = 60
-
 set_politics = {
 	ruling_party = neutrality
 	last_election = "1929.3.24"
@@ -109,13 +108,12 @@ set_popularities = {
 	neutrality = 65
 }
 create_country_leader = {
-	name = "Umberto I"
-	desc = "king of piedmont and sardinia"
-	picture = GFX_portrait_PSD_Umberto_I
+	name = "Umberto II"
+	desc = "PSD_Umberto_II_DESC"
+	picture = GFX_portrait_PSD_Umberto_II
 	expire = "1948.1.1.1"
 	ideology = despotism
-	traits = {
-		#
-	}
+	traits = {}
 }
-recruit_character = PSD_Umberto_I
+recruit_character = PSD_Umberto_II
+
