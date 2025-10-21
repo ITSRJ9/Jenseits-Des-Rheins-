@@ -5323,7 +5323,12 @@
  BLC_communism_ADJ: "Baloch"
  BLC: "Balochistan"
  BLC_DEF: "Balochistan"
- BLC_ADJ: "Baloch"
+ BLC_ADJ: "Baloch" 
 
-
-
+#my country
+PSD: "Kingdom of Piedmont Sardinia"
+PSD_DEF: "Piedmont Sardinia"
+PSD_ADJ: "Pxdiedmontese"
+PSD_neutrality_ADJ: "kingdom of piedmont sardinia"
+PSD_fascism_ADJ: "piedmont sardinian state"
+PSD_democratic_ADJ: "republic of piedmont sardinia"
