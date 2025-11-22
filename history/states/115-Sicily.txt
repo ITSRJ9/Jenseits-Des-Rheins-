@@ -1,0 +1,21 @@
+state={
+	id=115
+	name = "STATE_115"
+	provinces={
+		1009 1156 4014 4159 12047 13256 
+	}
+	history = {
+     owner = SIY
+	 buildings = {
+		Infrastructure = 3
+		arms_factory = 1
+		dockyard = 2
+	 }
+	 add_core_of = SIY
+	}
+	
+	manpower=1213435
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

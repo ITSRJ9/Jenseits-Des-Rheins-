@@ -1,0 +1,23 @@
+state={
+	id=1048
+	name = "STATE_1048"
+	manpower = 2835762
+	provinces={
+		3857 7059 7147 10074 
+	}
+    history = {
+	    owner = SIY
+	    victory_points = {
+			10074 15
+	    }
+	    buildings = {
+		    Infrastructure = 3
+		    industrial_complex = 4
+		    arms_factory = 2
+	    }
+	    add_core_of = SIY
+  }
+	state_category = metropolis
+	buildings_max_level_factor=1
+	local_supplies=0
+}
