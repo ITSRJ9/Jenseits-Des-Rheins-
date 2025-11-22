@@ -1,0 +1,7 @@
+spriteTypes = {
+
+	SpriteType = {
+		name = "GFX_idea_turin_car_industry"
+		texturefile = "gfx/interface/ideas/turin_car_industry.dds"
+	}
+}
