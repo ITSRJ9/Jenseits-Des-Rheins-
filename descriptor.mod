@@ -1,4 +1,5 @@
 version="0.1"
+picture="thumbnail.png"
 tags={
 	"Alternative History"
 	"Events"
@@ -10,4 +11,5 @@ tags={
 	"Gameplay"
 }
 name="Jenseits Des Rheins"
-supported_version="1.16.10"
+supported_version="1.17.0"
+remote_file_id="3591565113"
