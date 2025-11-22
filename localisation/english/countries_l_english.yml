@@ -5328,7 +5328,13 @@
 #my country
 PSD: "Kingdom of Piedmont Sardinia"
 PSD_DEF: "Piedmont Sardinia"
-PSD_ADJ: "Pxdiedmontese"
-PSD_neutrality_ADJ: "kingdom of piedmont sardinia"
-PSD_fascism_ADJ: "piedmont sardinian state"
-PSD_democratic_ADJ: "republic of piedmont sardinia"
+PSD_ADJ: "Piedmontese"
+PSD_neutrality_DEF: "Kingdom of Piedmont Sardinia"
+PSD_fascism_DEF: "Piedmont Sardinian State"
+PSD_democratic_DEF: "Republic of Piedmont Sardinia"
+
+SIY: "Sicily"
+SIY_DEF: "Sicily"
+SIA_ADJ: "Sicilian"
+SIY_democratic: "Federal Republic of Sicily"
+SIY_democratic_DEF: "Federal Republic of Sicily"
