@@ -1,0 +1,33 @@
+ideas = {
+	country = {
+    TURIN_CAR_INDUSTRY = {
+    picture = turin_car_industry
+
+		allowed ={
+			tag = PSD
+		}
+		allowed_civil_war = {
+				always = yes
+			}
+
+	    modifier = {
+			political_power_gain = 0.3
+			consumer_goods_factor = -0.15
+			production_factory_efficiency_gain_factor = 0.05
+			truck_attrition_factor = -0.1
+		}
+		    equipment_bonus = {
+        motorized_equipment = {
+        instant = yes
+		build_cost_ic = -0.3
+		  }
+		}
+	  }
+    }
+}
+
+	
+
+	 		
+					
+					
