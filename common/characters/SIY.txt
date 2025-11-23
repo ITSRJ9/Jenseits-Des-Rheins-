@@ -1,0 +1,16 @@
+character = {
+SIY_Luigi_Sturzo = {
+		name = SIY_Luigi_Sturzo
+		portraits = {
+			civilian = {
+				large = GFX_portrait_SIY_Luigi_Sturzo
+			}
+		}
+country_leader = {
+			ideology = conservatism
+			traits = {}
+			expire = "1959.1.9.8"
+		}
+
+	}
+}
