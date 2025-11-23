@@ -92,7 +92,7 @@ bookmarks = {
 				GER_reestablish_free_elections
 			}
 		}
-		"---"={
+		 "---"={
 			history = "OTHER_AGES_DESC"
 		}
 
@@ -104,4 +104,3 @@ bookmarks = {
 			#123 = { rain_light = yes }
 		}
 	}
-}
