@@ -9,8 +9,8 @@ ENG = {
 	color_ui = rgb { 255 73 121 }
 }
 SOV = {
-	color = rgb { 125 13 24 }
-	color_ui = rgb { 163 17 31 }
+	color = rgb { 0 82 81 }
+	color_ui = rgb { 0 82 81 }
 }
 SWE = {
 	color = rgb { 36 132 247 }
@@ -74,8 +74,8 @@ SWI = {
 	color_ui = rgb { 193 81 81 }
 }
 TUR = {
-	color = rgb { 171 190 152 }
-	color_ui = rgb { 222 247 198 }
+	color = rgb { 128 0 38 }
+	color_ui = rgb { 128 0 38 }
 }
 GRE = {
 	color = rgb { 93 181 227 }
