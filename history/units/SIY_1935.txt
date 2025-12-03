@@ -44,6 +44,22 @@ division_template = {
 		artillery = { x = 0 y = 0 }
 	}
 }
+
+# OOB #
+units = {
+	division = {
+			division_template = "Divisione di Fanteria Repubblicana"
+		    location = 10074 #Palermo
+		    start_experience_factor = 0.3 
+			start_equipment_factor = 1
+	}
+	division = {
+			division_template = "Divisione di Fanteria Repubblicana"
+		    location = 10074 #Palermo
+		    start_experience_factor = 0.3 
+			start_equipment_factor = 1
+	}
+}
 instant_effect = { 
 
 		add_equipment_production = { 
