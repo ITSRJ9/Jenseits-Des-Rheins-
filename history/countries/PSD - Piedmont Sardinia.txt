@@ -1,5 +1,5 @@
 ﻿capital = 158
-oob = "PSD_1935"
+oob = "PSD_1934"
 
 set_convoys = 60
 set_research_slots = 3
@@ -99,7 +99,6 @@ if = {
 }
 
 set_grand_doctrine = grand_battleplan
-set_grand_doctrine = new_fleet_in_being
 
 set_politics = {
 	ruling_party = neutrality
