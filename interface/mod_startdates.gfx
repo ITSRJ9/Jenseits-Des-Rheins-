@@ -2,8 +2,8 @@
 spriteTypes = {	
     				
 	spriteType = {
-		name = "GFX_start_date_1935"
-		texturefile = "gfx/interface/select_date_1935.dds"
+		name = "GFX_start_date_1934"
+		texturefile = "gfx/interface/select_date_1934.dds"
 		legacy_lazy_load = no
 	}
 }
