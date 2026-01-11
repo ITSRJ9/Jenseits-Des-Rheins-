@@ -699,7 +699,7 @@ set_technology = {
 #### VANILLA ####
 ####
 
-capital = 219 # Moscow
+capital = 195
 
 starting_train_buffer = 3.0
 
