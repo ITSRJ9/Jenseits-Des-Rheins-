@@ -1,0 +1,14 @@
+state={
+	id=1049
+	name= "STATE_1049"
+	manpower= 1775000
+		provinces={
+		79 149 6174 11068 
+	}
+	 history = {
+       owner = SOV
+	 }
+    state_category = town
+	buildings_max_level_factor=1
+	local_supplies=0
+}
