@@ -97,6 +97,8 @@ IF = {
 
 set_grand_doctrine = grand_battleplan
 
+recruit_character = SIY_Luigi_Sturzo
+
 set_politics = {
 	ruling_party = democratic
 	last_election = "1929.3.24"
@@ -116,4 +118,3 @@ create_country_leader = {
 	expire = "1959.1.9.8"
 	ideology = conservatism
 }
-recruit_character = SIY_Luigi_Sturzo

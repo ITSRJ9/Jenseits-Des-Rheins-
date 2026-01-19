@@ -100,6 +100,9 @@ if = {
 
 set_grand_doctrine = grand_battleplan
 
+recruit_character = PSD_Umberto_II
+recruit_character = PSD_vittorio_ambrosio
+
 set_politics = {
 	ruling_party = neutrality
 	last_election = "1929.3.24"
@@ -120,4 +123,3 @@ create_country_leader = {
 	ideology = despotism
 	traits = {}
 }
-recruit_character = PSD_Umberto_II
