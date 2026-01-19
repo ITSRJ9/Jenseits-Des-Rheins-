@@ -1,4 +1,4 @@
-character = {
+characters = {
 PSD_Umberto_II = {
 		name = PSD_Umberto_II
 		portraits = {
@@ -12,5 +12,22 @@ country_leader = {
 			expire = "1948.1.1.1"
 		}
 
-	}	
+	}
+		PSD_vittorio_ambrosio = {
+		name = PSD_vittorio_ambrosio
+		portraits = {
+			army = {
+				large = GFX_portrait_PSD_vittorio_ambrosio
+			}
+		}
+		corps_commander = {
+			traits = {cavalry_officer}
+			skill = 1
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 2
+			logistics_skill = 2
+			legacy_id = 0
+		}
+	}
 }

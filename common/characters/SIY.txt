@@ -1,4 +1,4 @@
-character = {
+characters = {
 SIY_Luigi_Sturzo = {
 		name = SIY_Luigi_Sturzo
 		portraits = {
