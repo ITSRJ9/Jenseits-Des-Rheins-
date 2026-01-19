@@ -1,7 +1,7 @@
 SIY = {
 	male = {
 		names = {
-			Angelo Alessandro Alfredo Abelardo Adriano Adamo Antonio Amadeo Andrea Amerigo Benito Bernardo Benvenuto Benedetto Bruno Baldassare Bernardo Baldassarre Brancaleone Carlo Ciro Camillo Concetto Carmine Cecco Carmelo Cenzo Corrado Constanzo Costantino
+			Angelo Alessandro Alfredo Abelardo Adriano Adamo Antonio Amadeo Andrea Amerigo Benito Bernardo Benvenuto Benedetto Bruno Baldassare Bernardo Baldassarre Brancaleone Carlo Ciro Camillo Concetto Cecco Carmelo Carmine Cenzo Corrado Constanzo Costantino Claudio
 		}
 	}
 	female = {
@@ -12,7 +12,7 @@ SIY = {
 	}
 	surnames = {
 		Abagnale Abate Abba Abbagnale Abbandando Abbiati Abbruzzi Abruzzo Adamo Bartolini Bartolomei Bartolozzi Basaldella Berardi Berio Bernardi Bernacchi Bartolozzi Conti Colombo Caputo Caruso Carlucci Cappello Costa Caputo Caruso Cipriani
-
+	}
 	callsigns = { "Bubi" "Assi" "Cacciatore scientifico" "Cavallino Rampante" "Dolfo" "Fighter of Libau" "Petit Rouge" "Pritzl" "The Red Baron" "The Red Battle-flyer" "The Red Knight" "Reeste" }
 
 	prefix = o_operazione
@@ -110,22 +110,5 @@ SIY = {
 			o_grunpfeil
 			o_fredericus
 		}
-		21 = { #italy
-			o_eiche
-			o_achse
-			o_alarich
-			o_siegfried
-			o_konstantin
-		}
-		23 = { #italy
-			o_eiche
-			o_achse
-			o_alaric
-			o_scwartz
-			o_siegfried
-			o_konstantin
-		}
 	}
-
-}
 }
