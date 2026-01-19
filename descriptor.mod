@@ -11,5 +11,5 @@ tags={
 	"Gameplay"
 }
 name="Jenseits Des Rheins"
-supported_version="1.17.0"
+supported_version="1.17.3.0"
 remote_file_id="3591565113"
