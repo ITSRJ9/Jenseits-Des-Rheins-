@@ -3,5 +3,8 @@ spriteTypes = {
 		name = "GFX_portrait_PSD_Umberto_II"
 		texturefile = "gfx/leaders/PSD/portrait_PSD_Umberto_II.dds"
 	}
-
+	spriteType = {
+		name = "GFX_portrait_PSD_vittorio_ambrosio"
+		texturefile = "gfx/leaders/PSD/portrait_PSD_vittorio_ambrosio.dds"
+	}
 }
