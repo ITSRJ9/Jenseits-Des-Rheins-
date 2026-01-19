@@ -20,10 +20,8 @@ state = {
 			}
 		}
 	}
-
 	provinces = {
 		13313
 	}
-
 	local_supplies = 0.0 
 }
