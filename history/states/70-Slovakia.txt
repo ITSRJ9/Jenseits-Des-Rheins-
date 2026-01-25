@@ -29,6 +29,10 @@ state = {
 		}
 
 		victory_points = {
+			3484 5 # Trenčín
+		}
+
+		victory_points = {
 			11539 5 # Zilina
 		}
 
