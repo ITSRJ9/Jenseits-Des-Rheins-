@@ -1,0 +1,19 @@
+PSD_Turin_Auto = {
+    include = generic_motorized_mechanized_organization
+	icon = GFX_idea_turin_car_industry
+	allowed = {
+		tag = PSD
+	}
+	initial_trait = {
+		organization_modifier = {
+			military_industrial_organization_research_bonus = 0.05
+		}
+
+		equipment_bonus = {
+			maximum_speed = 0.1
+			reliability = 0.05
+			supply_consumption = -0.05
+		}
+	}
+	
+}
