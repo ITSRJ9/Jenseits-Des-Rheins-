@@ -65,6 +65,12 @@ units = {
 		    start_experience_factor = 0.3 
 			start_equipment_factor = 1
 	}
+	division = {
+			division_template = "Divisione Motorizzata"
+		    location = 13256
+		    start_experience_factor = 0.3 
+			start_equipment_factor = 1
+	}
 }
 instant_effect = { 
 
