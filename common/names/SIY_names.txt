@@ -13,7 +13,7 @@ SIY = {
 	surnames = {
 		Abagnale Abate Abba Abbagnale Abbandando Abbiati Abbruzzi Abruzzo Adamo Bartolini Bartolomei Bartolozzi Basaldella Berardi Berio Bernardi Bernacchi Bartolozzi Conti Colombo Caputo Caruso Carlucci Cappello Costa Caputo Caruso Cipriani
 	}
-	callsigns = { "Bubi" "Assi" "Cacciatore scientifico" "Cavallino Rampante" "Dolfo" "Fighter of Libau" "Petit Rouge" "Pritzl" "The Red Baron" "The Red Battle-flyer" "The Red Knight" "Reeste" }
+	callsigns = { "Cacciatore scientifico" "Cavallino Rampante" }
 
 	prefix = o_operazione
 	operation = {
