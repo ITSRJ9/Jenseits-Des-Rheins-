@@ -856,8 +856,8 @@ AOI = {
 	color_ui = rgb { 0 77 26 }
 }
 LBV = {
-	color = rgb { 242 160 27 }
-	color_ui = rgb { 102 0 0 }
+	color = rgb { 246 232 193 }
+	color_ui = rgb { 246 232 193 }
 }
 PAP = {
 	color = rgb { 255 255 204 }
