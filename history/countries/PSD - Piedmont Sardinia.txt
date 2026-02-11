@@ -1,6 +1,7 @@
 capital = 158
 oob = "PSD_1934"
 set_naval_oob = "PSD_1934_naval"
+set_air_oob = "PSD_1934_air"
 
 set_convoys = 60
 set_research_slots = 3
@@ -168,3 +169,4 @@ create_country_leader = {
 	ideology = despotism
 	traits = {}
 }
+
