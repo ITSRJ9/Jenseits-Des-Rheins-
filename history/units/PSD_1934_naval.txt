@@ -1,0 +1,28 @@
+units = {
+	fleet = {
+		name = "Comando Navale Sardegna"
+		naval_base = 11773
+		task_force = {
+		name = "Squadra di Sardegna"
+		location = 11773 
+		ship = { name = "RN Generale Achille Papa" definition = destroyer start_experience_factor = 0.25 equipment = { ship_hull_light_1 = { amount = 1 owner = PSD version_name = "Curtatone Class" } } }
+		ship = { name = "RN Generale Carlo Montanari" definition = destroyer start_experience_factor = 0.25 equipment = { ship_hull_light_1 = { amount = 1 owner = PSD version_name = "Curtatone Class" } } }
+		ship = { name = "RN Generale Antonino Cascino" definition = destroyer start_experience_factor = 0.25 equipment = { ship_hull_light_1 = { amount = 1 owner = PSD version_name = "Curtatone Class" } } }  
+        ship = { name = "RN Ippolito Nievo" definition = destroyer start_experience_factor = 0.25 equipment = { ship_hull_light_1 = { amount = 1 owner = PSD version_name = "Curtatone Class" } } }	
+        }
+        }
+	fleet = {
+		name = "Comando Navale Piedmont"
+		naval_base = 6788
+		task_force = {
+		name = "Squadra di Liguria"
+		location = 6788 
+		ship = { name = "RN Antonio Mosto" definition = destroyer start_experience_factor = 0.25 equipment = { ship_hull_light_1 = { amount = 1 owner = PSD version_name = "Curtatone Class" } } }
+		ship = { name = "RN Fratelli Cairoli" definition = destroyer start_experience_factor = 0.25 equipment = { ship_hull_light_1 = { amount = 1 owner = PSD version_name = "Curtatone Class" } } }
+		ship = { name = "RN Generale Antonino Cascino" definition = destroyer start_experience_factor = 0.25 equipment = { ship_hull_light_1 = { amount = 1 owner = PSD version_name = "Curtatone Class" } } }  
+        ship = { name = "RN Umberto" definition = destroyer start_experience_factor = 0.25 equipment = { ship_hull_light_1 = { amount = 1 owner = PSD version_name = "Curtatone Class" } } }
+		ship = { name = "RN Piedmont" pride_of_the_fleet = yes definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = PSD version_name = "Giussano Class" } } }
+		
+        }
+        }
+}
